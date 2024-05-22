@@ -44,8 +44,7 @@ http://localhost:8080/<video/song>/<filename>/outputlist.m3u8
 
 Available files:
 
-Videos: got (Game of Thrones trailer), st4 (Stranger Things trailer), mm (Monkey Man trailer)
-Songs: husn, sorry-justinbeiber, shape of u
+Songs: loveme
 Replace <video/song> with either video or song, <filename> with one of the available file names, and access the provided link in an HLS-compatible player.
 
 For example:
